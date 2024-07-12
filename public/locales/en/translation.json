@@ -1,0 +1,42 @@
+{
+    "layout": {
+      "dashboard": "Dashboard",
+      "order": "Orders",
+      "product": "Product",
+      "other" : "Other"
+    },
+    "home":{
+      "sales":"Sales",
+      "inventory":"Inventory",
+      "customers":"Customers",
+      "marketing":"Marketing",
+      "Revenue" : "Sales Revenue",
+       
+        "recent_transactions": "Recent Transactions",
+        "name": "Name",
+        "date": "Date",
+        "amount": "Amount",
+        "status": "Status",
+        "top_products_by_units_sold": "Top Products by Units Sold",
+        "price": "Price",
+        "units": "Units",
+        "cell":"Top selling products",
+        "see":"See All"
+    },
+    "Orders":{
+      "Orders":"Orders",
+      "no_order":"No Orders Yet",
+      "ordertext":" All the upcoming orders from your store will be visible on this page. You can add orders by yourself if you sell offline."
+    },
+    "categories":"categories",
+    "Products":{
+      "Products":"Products",
+      "add":"Add order",
+      "Filter":"Filter",
+      "price":"Price",
+      "stock":"in stock",
+      "Inventory":"Inventory",
+      "Category":"Category",
+      "Action":"Action"
+    }
+  }
