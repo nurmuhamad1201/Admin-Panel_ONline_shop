@@ -2,7 +2,8 @@
 
 # FASTCART online shop
 # Admin Panel
-## Redax-toolkit
+## Redax-toolkit.
+
 
 Currently, two official plugins are available:
 ![alt text](image.png)
